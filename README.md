@@ -79,4 +79,10 @@
 |---:|---------|------|
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
 
+## Uncategorized
+
+| # | Problem | File |
+|---:|---------|------|
+| 4052 | [Cyclically Shift Rows and Columns](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4052-cyclically-shift-rows-and-columns.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4052-cyclically-shift-rows-and-columns.java) |
+
 <!-- LEETGITSYNC:END -->
