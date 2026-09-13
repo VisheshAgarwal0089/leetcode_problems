@@ -6,6 +6,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 
@@ -60,6 +61,12 @@
 |---:|---------|------|
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
+
+## Matrix
+
+| # | Problem | File |
+|---:|---------|------|
+| 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 
 ## Recursion
 
