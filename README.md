@@ -49,6 +49,12 @@
 |---:|---------|------|
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 
+## Geometry
+
+| # | Problem | File |
+|---:|---------|------|
+| 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
+
 ## Hash Table
 
 | # | Problem | File |
@@ -59,6 +65,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
 
