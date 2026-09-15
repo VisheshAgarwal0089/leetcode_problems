@@ -41,6 +41,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 
 ## Enumeration
@@ -54,6 +55,12 @@
 | # | Problem | File |
 |---:|---------|------|
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
+
+## Greedy
+
+| # | Problem | File |
+|---:|---------|------|
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 
 ## Hash Table
 
@@ -87,11 +94,23 @@
 |---:|---------|------|
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 
+## String
+
+| # | Problem | File |
+|---:|---------|------|
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
+
 ## Tree
 
 | # | Problem | File |
 |---:|---------|------|
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
+
+## Two Pointers
+
+| # | Problem | File |
+|---:|---------|------|
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 
 ## Uncategorized
 
