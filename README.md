@@ -65,6 +65,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
+| 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 
 ## Greedy
 
@@ -84,6 +85,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
+| 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
