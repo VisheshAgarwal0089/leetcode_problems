@@ -108,6 +108,12 @@
 |---:|---------|------|
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 
+## Simulation
+
+| # | Problem | File |
+|---:|---------|------|
+| 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
+
 ## Sliding Window
 
 | # | Problem | File |
@@ -125,6 +131,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
+| 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
 
 ## Tree
 
