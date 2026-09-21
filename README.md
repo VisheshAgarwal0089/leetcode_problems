@@ -10,6 +10,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
+| 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 
 ## Binary Search
 
@@ -53,6 +54,7 @@
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
+| 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 
 ## Enumeration
 
@@ -87,6 +89,7 @@
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
 | 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
+| 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
 
