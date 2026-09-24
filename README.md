@@ -13,6 +13,7 @@
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) |
 
 ## Binary Search
 
@@ -95,6 +96,7 @@
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) |
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
 
