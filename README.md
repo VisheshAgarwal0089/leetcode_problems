@@ -36,6 +36,12 @@
 |---:|---------|------|
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
 
+## Bracket Sequences
+
+| # | Problem | File |
+|---:|---------|------|
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
+
 ## Breadth-First Search
 
 | # | Problem | File |
@@ -165,12 +171,14 @@
 | # | Problem | File |
 |---:|---------|------|
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 
 ## String
 
 | # | Problem | File |
 |---:|---------|------|
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
