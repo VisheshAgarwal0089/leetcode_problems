@@ -102,6 +102,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
@@ -156,6 +157,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 
@@ -177,6 +179,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
