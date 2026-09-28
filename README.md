@@ -41,6 +41,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
 
 ## Breadth-First Search
 
@@ -174,6 +175,7 @@
 |---:|---------|------|
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
 
 ## String
 
@@ -182,6 +184,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
