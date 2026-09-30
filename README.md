@@ -16,6 +16,7 @@
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
 ## Backtracking
 
@@ -37,6 +38,12 @@
 |---:|---------|------|
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
 
+## Bit Manipulation
+
+| # | Problem | File |
+|---:|---------|------|
+| 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+
 ## Bracket Sequences
 
 | # | Problem | File |
@@ -51,6 +58,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
 ## Combinatorics
 
@@ -113,6 +121,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
 ## Math
 
@@ -133,6 +142,7 @@
 |---:|---------|------|
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
 ## Prefix Sum
 
