@@ -48,6 +48,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
@@ -188,6 +189,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
@@ -198,6 +200,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
+| 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
