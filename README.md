@@ -22,6 +22,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 
 ## Binary Search
@@ -49,6 +50,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
+| 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
@@ -86,6 +88,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) |
@@ -201,6 +204,7 @@
 |---:|---------|------|
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3-longest-substring-without-repeating-characters.java) |
 | 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
+| 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
