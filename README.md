@@ -23,6 +23,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
+| 301 | [Remove Invalid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 
 ## Binary Search
@@ -64,6 +65,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 301 | [Remove Invalid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
@@ -218,6 +220,7 @@
 | 20 | [Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/20-valid-parentheses.java) |
 | 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 32 | [Longest Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/32-longest-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/32-longest-valid-parentheses.java) |
+| 301 | [Remove Invalid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) |
 | 678 | [Valid Parenthesis String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) |
 | 856 | [Score of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/856-score-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/856-score-of-parentheses.java) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/921-minimum-add-to-make-parentheses-valid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/921-minimum-add-to-make-parentheses-valid.java) |
