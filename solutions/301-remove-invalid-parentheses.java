@@ -1,52 +1,39 @@
 class Solution {
-    private int MIN;
-public List<String> removeInvalidParentheses(String s) {
-    MIN = getMinParenRemoved(s);
-    List<String> list = new ArrayList<>();
-    Set<String> set = new HashSet<>();
-    dfs(s, 0, 0, "", set, 0);
-    list.addAll(set);
-    return list;
-}
-
-private void dfs(String s, int index, int currOpen, String formed, Set<String> list, int removed) {
-    int N = s.length();
-    if (index == N && currOpen == 0) {
-        list.add(formed);
-        return;
-    }
-    if (removed > MIN  || index == N) {
-        return;
-    }
-    if (s.charAt(index) == '(') {
-        dfs(s, index+1, currOpen+1, formed + s.charAt(index), list, removed);
-        dfs(s, index+1, currOpen, formed, list, removed+1);
-    } else if (s.charAt(index) == ')') {
-        if (currOpen > 0) {
-            dfs(s, index+1, currOpen-1, formed + s.charAt(index), list, removed);
-        }
-
-        dfs(s, index+1, currOpen, formed, list, removed+1);
-    } else {
-        dfs(s, index+1, currOpen, formed + s.charAt(index), list, removed);
-    }
-}
-
-private int getMinParenRemoved(String str) {
-    int open = 0;
-    int ans = 0;
-    for (int i=0;i<str.length();i++) {
-        char ch = str.charAt(i);
-        if (ch == '(') {
-            open++;
-        } else if (ch == ')') {
-            if (open > 0) {
-                open--;
-            } else {
-                ans++;
+    private Set<String> set=new HashSet<>();
+    private int n;
+    private int maxlen;
+    private void solve(String s,int i,StringBuilder cur,int count){
+        if(count<0)return;
+        if(i==n){
+            if(count==0){
+                if(maxlen<cur.length()){
+                    maxlen=cur.length();
+                    set.clear();
+                }
+                if(cur.length()==maxlen){
+                    set.add(cur.toString());
+                }
             }
+            return;
         }
+        char c=s.charAt(i);
+        if(s.charAt(i)!='(' && s.charAt(i)!=')'){
+            cur.append(c);
+            solve(s, i + 1, cur, count);
+            cur.deleteCharAt(cur.length() - 1);
+            return;
+        }
+        cur.append(c);
+        solve(s,i+1,cur,count+(c=='('?1:-1));
+        cur.deleteCharAt(cur.length()-1);
+        solve(s,i+1,cur,count);
+
     }
-    return (ans + open);
-}
+    public List<String> removeInvalidParentheses(String s) {
+        n=s.length();
+        maxlen=0;
+        set.clear();
+        solve(s,0,new StringBuilder(),0);
+        return new ArrayList<>(set);
+    }
 }
