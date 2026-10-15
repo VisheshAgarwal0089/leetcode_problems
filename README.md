@@ -14,6 +14,7 @@
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
 | 2778 | [Sum of Squares of Special Elements](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
@@ -29,6 +30,12 @@
 | 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 301 | [Remove Invalid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
+
+## Binary Indexed Tree
+
+| # | Problem | File |
+|---:|---------|------|
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 
 ## Binary Search
 
@@ -149,6 +156,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 
@@ -197,6 +205,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
 
 ## Simulation
