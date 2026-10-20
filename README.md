@@ -26,6 +26,7 @@
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
+| 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 
 ## Backtracking
 
@@ -146,6 +147,7 @@
 |---:|---------|------|
 | 2778 | [Sum of Squares of Special Elements](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
+| 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 
 ## Fermat's Little Theorem
 
@@ -209,6 +211,7 @@
 | 3723 | [Maximize Sum of Squares of Digits](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) |
 | 3870 | [Count Commas in Range](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3870-count-commas-in-range.java) |
 | 3871 | [Count Commas in Range II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3871-count-commas-in-range-ii.java) |
+| 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 
 ## Matrix
 
@@ -269,6 +272,7 @@
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
+| 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 
 ## Stack
 
