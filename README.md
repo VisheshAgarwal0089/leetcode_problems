@@ -311,6 +311,7 @@
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
+| 3863 | [Minimum Operations to Sort a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) |
 
 ## Tree
 
