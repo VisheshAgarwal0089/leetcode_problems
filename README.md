@@ -47,6 +47,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 2089 | [Find Target Indices After Sorting Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) |
@@ -201,6 +202,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
 | 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
@@ -324,6 +326,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 
 ## Uncategorized
