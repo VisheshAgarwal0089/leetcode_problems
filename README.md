@@ -25,6 +25,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
@@ -74,6 +75,7 @@
 |---:|---------|------|
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
 
 ## Bracket Sequences
 
