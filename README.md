@@ -6,6 +6,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
@@ -101,6 +102,12 @@
 | 301 | [Remove Invalid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/301-remove-invalid-parentheses.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+
+## Bubble Sort
+
+| # | Problem | File |
+|---:|---------|------|
+| 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 
 ## Combinatorics
 
@@ -239,6 +246,12 @@
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 
+## Quicksort
+
+| # | Problem | File |
+|---:|---------|------|
+| 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
+
 ## Recursion
 
 | # | Problem | File |
@@ -272,6 +285,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 2089 | [Find Target Indices After Sorting Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) |
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
@@ -331,6 +345,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 | 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 
