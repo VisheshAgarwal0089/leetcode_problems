@@ -28,6 +28,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3550-smallest-index-with-digit-sum-equal-to-index.java) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 | 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
@@ -105,6 +106,7 @@
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 
 ## Bubble Sort
 
@@ -134,6 +136,7 @@
 |---:|---------|------|
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 
 ## Divide and Conquer
 
@@ -239,6 +242,7 @@
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 
 ## Memoization
 
@@ -377,5 +381,6 @@
 |---:|---------|------|
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 
 <!-- LEETGITSYNC:END -->
