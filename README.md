@@ -365,6 +365,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 3963 | [Create Grid With Exactly One Path](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3963-create-grid-with-exactly-one-path.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3963-create-grid-with-exactly-one-path.java) |
 | 4052 | [Cyclically Shift Rows and Columns](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4052-cyclically-shift-rows-and-columns.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4052-cyclically-shift-rows-and-columns.java) |
 | 4391 | [Count Subarrays With Loose Bounds](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4391-count-subarrays-with-loose-bounds.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4391-count-subarrays-with-loose-bounds.java) |
 | 4402 | [Count Magical Substring Pairs I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4402-count-magical-substring-pairs-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/4402-count-magical-substring-pairs-i.java) |
