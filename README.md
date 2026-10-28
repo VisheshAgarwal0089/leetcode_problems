@@ -31,6 +31,7 @@
 | 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 | 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
+| 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
 
@@ -80,6 +81,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 | 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
+| 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 
 ## Bracket Sequences
 
@@ -158,6 +160,7 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
+| 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 
 ## Enumeration
 
@@ -243,6 +246,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2267-check-if-there-is-a-valid-parentheses-string-path.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
+| 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 
 ## Memoization
 
