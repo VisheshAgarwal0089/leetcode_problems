@@ -31,6 +31,7 @@
 | 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 | 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
@@ -49,6 +50,7 @@
 |---:|---------|------|
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
 ## Binary Search
 
@@ -81,6 +83,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
 | 3644 | [Maximum K to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3644-maximum-k-to-sort-a-permutation.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 
 ## Bracket Sequences
@@ -139,12 +142,14 @@
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
 ## Divide and Conquer
 
 | # | Problem | File |
 |---:|---------|------|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
 ## Dynamic Programming
 
@@ -280,6 +285,7 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
 ## Simulation
 
@@ -348,6 +354,7 @@
 | 2409 | [Count Days Spent Together](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3863 | [Minimum Operations to Sort a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) |
 
 ## Tree
@@ -356,6 +363,7 @@
 |---:|---------|------|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2265-count-nodes-equal-to-average-of-subtree.java) |
+| 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
 ## Two Pointers
 
