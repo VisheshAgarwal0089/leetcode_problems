@@ -188,6 +188,12 @@
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
 | 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 
+## Graph Theory
+
+| # | Problem | File |
+|---:|---------|------|
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
+
 ## Greedy
 
 | # | Problem | File |
@@ -223,6 +229,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 
 ## Math
 
@@ -286,6 +293,12 @@
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
+
+## Shortest Path
+
+| # | Problem | File |
+|---:|---------|------|
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 
 ## Simulation
 
@@ -356,6 +369,7 @@
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3863 | [Minimum Operations to Sort a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 
 ## Tree
 
