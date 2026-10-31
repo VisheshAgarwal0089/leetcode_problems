@@ -6,6 +6,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) |
 | 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 | 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
@@ -58,6 +59,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) |
 | 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
