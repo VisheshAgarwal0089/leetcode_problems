@@ -7,6 +7,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
+| 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 860 | [Lemonade Change](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) |
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
@@ -158,6 +159,7 @@
 |---:|---------|------|
 | 22 | [Generate Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/22-generate-parentheses.java) |
 | 32 | [Longest Valid Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/32-longest-valid-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/32-longest-valid-parentheses.java) |
+| 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
 | 678 | [Valid Parenthesis String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
@@ -200,6 +202,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
 | 678 | [Valid Parenthesis String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/678-valid-parenthesis-string.java) |
 | 860 | [Lemonade Change](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/921-minimum-add-to-make-parentheses-valid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/921-minimum-add-to-make-parentheses-valid.java) |
@@ -323,6 +326,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
+| 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
 | 1096 | [Brace Expansion II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1096-brace-expansion-ii.java) |
 | 2089 | [Find Target Indices After Sorting Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) |
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
