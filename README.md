@@ -9,6 +9,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/34-find-first-and-last-position-of-element-in-sorted-array.java) |
 | 75 | [Sort Colors](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/75-sort-colors.java) |
 | 435 | [Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/435-non-overlapping-intervals.java) |
+| 453 | [Minimum Moves to Equal Array Elements](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/453-minimum-moves-to-equal-array-elements.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/453-minimum-moves-to-equal-array-elements.java) |
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 860 | [Lemonade Change](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) |
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
@@ -242,6 +243,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 453 | [Minimum Moves to Equal Array Elements](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/453-minimum-moves-to-equal-array-elements.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/453-minimum-moves-to-equal-array-elements.java) |
 | 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
 | 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
