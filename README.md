@@ -1,6 +1,6 @@
 # leetcode_problems
 
-<!-- LEETGITSYNC:START -->
+<!--  LEETGITSYNC:START  -->
 
 ## Array
 
