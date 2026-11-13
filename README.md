@@ -27,6 +27,7 @@
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
@@ -286,12 +287,30 @@
 |---:|---------|------|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
 
+## Monotonic Queue
+
+| # | Problem | File |
+|---:|---------|------|
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
+
+## Monotonic Stack
+
+| # | Problem | File |
+|---:|---------|------|
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
+
 ## Prefix Sum
 
 | # | Problem | File |
 |---:|---------|------|
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
+
+## Queue
+
+| # | Problem | File |
+|---:|---------|------|
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 
 ## Quicksort
 
@@ -311,6 +330,7 @@
 |---:|---------|------|
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2913-subarrays-distinct-element-sum-of-squares-i.java) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2916-subarrays-distinct-element-sum-of-squares-ii.java) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 
@@ -334,6 +354,7 @@
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 
 ## Sorting
@@ -366,6 +387,7 @@
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1190-reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1541-minimum-insertions-to-balance-a-parentheses-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1541-minimum-insertions-to-balance-a-parentheses-string.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 
 ## String
 
