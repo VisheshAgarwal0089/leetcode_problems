@@ -350,6 +350,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 2243 | [Calculate Digit Sum of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
 
 ## Sliding Window
@@ -416,6 +417,7 @@
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1541-minimum-insertions-to-balance-a-parentheses-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1541-minimum-insertions-to-balance-a-parentheses-string.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1614-maximum-nesting-depth-of-the-parentheses.java) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1807-evaluate-the-bracket-pairs-of-a-string.java) |
+| 2243 | [Calculate Digit Sum of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) |
 | 2409 | [Count Days Spent Together](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
