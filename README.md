@@ -14,6 +14,7 @@
 | 835 | [Image Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/835-image-overlap.java) |
 | 860 | [Lemonade Change](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/860-lemonade-change.java) |
 | 1254 | [Number of Closed Islands](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1254-number-of-closed-islands.java) |
+| 1352 | [Product of the Last K Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
@@ -141,6 +142,12 @@
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 
+## Data Stream
+
+| # | Problem | File |
+|---:|---------|------|
+| 1352 | [Product of the Last K Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) |
+
 ## Database
 
 | # | Problem | File |
@@ -159,6 +166,12 @@
 | 3331 | [Find Subtree Sizes After Changes](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3331-find-subtree-sizes-after-changes.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3331-find-subtree-sizes-after-changes.java) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3619-count-islands-with-total-value-divisible-by-k.java) |
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
+
+## Design
+
+| # | Problem | File |
+|---:|---------|------|
+| 1352 | [Product of the Last K Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) |
 
 ## Divide and Conquer
 
@@ -266,6 +279,7 @@
 | 462 | [Minimum Moves to Equal Array Elements II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/462-minimum-moves-to-equal-array-elements-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/462-minimum-moves-to-equal-array-elements-ii.java) |
 | 633 | [Sum of Square Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/633-sum-of-square-numbers.java) |
 | 836 | [Rectangle Overlap](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/836-rectangle-overlap.java) |
+| 1352 | [Product of the Last K Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) |
 | 1401 | [Circle and Rectangle Overlapping](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1401-circle-and-rectangle-overlapping.java) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
@@ -315,6 +329,7 @@
 
 | # | Problem | File |
 |---:|---------|------|
+| 1352 | [Product of the Last K Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1352-product-of-the-last-k-numbers.java) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1524-number-of-sub-arrays-with-odd-sum.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
