@@ -32,6 +32,7 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 3331 | [Find Subtree Sizes After Changes](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3331-find-subtree-sizes-after-changes.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3331-find-subtree-sizes-after-changes.java) |
 | 3364 | [Minimum Positive Sum Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3364-minimum-positive-sum-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3364-minimum-positive-sum-subarray.java) |
+| 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
@@ -207,6 +208,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 2778 | [Sum of Squares of Special Elements](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2778-sum-of-squares-of-special-elements.java) |
+| 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 
@@ -285,6 +287,7 @@
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2409 | [Count Days Spent Together](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) |
+| 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3525 | [Find X Value of Array II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3525-find-x-value-of-array-ii.java) |
@@ -324,6 +327,12 @@
 | # | Problem | File |
 |---:|---------|------|
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
+
+## Number Theory
+
+| # | Problem | File |
+|---:|---------|------|
+| 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 
 ## Prefix Sum
 
@@ -385,6 +394,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 3364 | [Minimum Positive Sum Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3364-minimum-positive-sum-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3364-minimum-positive-sum-subarray.java) |
+| 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3420-count-non-decreasing-subarrays-after-k-operations.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 
