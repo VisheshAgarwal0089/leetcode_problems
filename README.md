@@ -50,6 +50,7 @@
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
 
 ## Backtracking
@@ -79,6 +80,7 @@
 | 2089 | [Find Target Indices After Sorting Array](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2089-find-target-indices-after-sorting-array.java) |
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3414-maximum-score-of-non-overlapping-intervals.java) |
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 
 ## Binary Search Tree
 
@@ -247,6 +249,12 @@
 | 3723 | [Maximize Sum of Squares of Digits](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
 
+## Hash Function
+
+| # | Problem | File |
+|---:|---------|------|
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
+
 ## Hash Table
 
 | # | Problem | File |
@@ -264,6 +272,7 @@
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3568-minimum-moves-to-clean-the-classroom.java) |
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 
 ## Heap &#40;Priority Queue&#41;
 
@@ -361,6 +370,12 @@
 | # | Problem | File |
 |---:|---------|------|
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3483-unique-3-digit-even-numbers.java) |
+
+## Rolling Hash
+
+| # | Problem | File |
+|---:|---------|------|
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 
 ## Segment Tree
 
@@ -463,6 +478,12 @@
 | 3841 | [Palindromic Path Queries in a Tree](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3841-palindromic-path-queries-in-a-tree.java) |
 | 3863 | [Minimum Operations to Sort a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3863-minimum-operations-to-sort-a-string.java) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
+
+## Suffix Array
+
+| # | Problem | File |
+|---:|---------|------|
+| 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 
 ## Tree
 
