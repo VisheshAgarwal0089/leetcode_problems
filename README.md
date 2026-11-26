@@ -296,6 +296,7 @@
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/1621-number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2409 | [Count Days Spent Together](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2409-count-days-spent-together.java) |
+| 3360 | [Stone Removal Game](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3360-stone-removal-game.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3360-stone-removal-game.java) |
 | 3411 | [Maximum Subarray With Equal Products](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3411-maximum-subarray-with-equal-products.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
@@ -398,6 +399,7 @@
 | # | Problem | File |
 |---:|---------|------|
 | 2243 | [Calculate Digit Sum of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2243-calculate-digit-sum-of-a-string.java) |
+| 3360 | [Stone Removal Game](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3360-stone-removal-game.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3360-stone-removal-game.java) |
 | 3498 | [Reverse Degree of a String](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3498-reverse-degree-of-a-string.java) |
 
 ## Sliding Window
