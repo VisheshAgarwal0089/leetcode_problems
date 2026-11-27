@@ -52,6 +52,7 @@
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
 | 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
+| 3946 | [Maximum Number of Items From Sale I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) |
 
 ## Backtracking
 
@@ -204,6 +205,7 @@
 | 3524 | [Find X Value of Array I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3524-find-x-value-of-array-i.java) |
 | 3665 | [Twisted Mirror Path Count](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3665-twisted-mirror-path-count.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3665-twisted-mirror-path-count.java) |
 | 3882 | [Minimum XOR Path in a Grid](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3882-minimum-xor-path-in-a-grid.java) |
+| 3946 | [Maximum Number of Items From Sale I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) |
 
 ## Enumeration
 
@@ -248,6 +250,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 3723 | [Maximize Sum of Squares of Digits](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
+| 3946 | [Maximum Number of Items From Sale I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) |
 
 ## Hash Function
 
