@@ -53,6 +53,7 @@
 | 3934 | [Smallest Unique Subarray](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3934-smallest-unique-subarray.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3942-minimum-operations-to-sort-a-permutation.java) |
 | 3946 | [Maximum Number of Items From Sale I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) |
+| 3947 | [Maximum Number of Items From Sale II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) |
 
 ## Backtracking
 
@@ -251,6 +252,7 @@
 | 3723 | [Maximize Sum of Squares of Digits](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3723-maximize-sum-of-squares-of-digits.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
 | 3946 | [Maximum Number of Items From Sale I](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3946-maximum-number-of-items-from-sale-i.java) |
+| 3947 | [Maximum Number of Items From Sale II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) |
 
 ## Hash Function
 
@@ -283,6 +285,7 @@
 |---:|---------|------|
 | 2333 | [Minimum Sum of Squared Difference](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/2333-minimum-sum-of-squared-difference.java) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.java) |
+| 3947 | [Maximum Number of Items From Sale II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 
 ## Math
@@ -434,6 +437,7 @@
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3551-minimum-swaps-to-sort-by-digit-sum.java) |
 | 3727 | [Maximum Alternating Sum of Squares](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3727-maximum-alternating-sum-of-squares.java) |
 | 3886 | [Sum of Sortable Integers](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3886-sum-of-sortable-integers.java) |
+| 3947 | [Maximum Number of Items From Sale II](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) | [Java](https://github.com/VisheshAgarwal0089/leetcode_problems/blob/main/solutions/3947-maximum-number-of-items-from-sale-ii.java) |
 
 ## Stack
 
